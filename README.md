@@ -26,6 +26,5 @@ Muy importante, ya que así podré colocar la fecha correcta de la factura.
 ¿Tienes más dudas?
 
 Escríbeme.
-
-- Tiziano Granzotto -
+Tiziano Granzotto
 

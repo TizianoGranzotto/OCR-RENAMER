@@ -1,0 +1,37 @@
+
+
+
+¿Como funciona?
+Renombra todas las imágenes .jpeg según su fecha de facturación, tipo y número de comprobante
+con el siguiente formato:
+"03-12-2024 FA A00002-00019043.jpeg"
+
+¿Qué debo hacer?
+1.
+Con tu programa de escáner, cada imagen debe ser de formato .jpeg
+es el formato más ligero y con mejor calidad, bueno para no ocupar toda la memoria
+de tu computadora. (me puedes llamar si no sabes cómo hacerlo)
+
+2.
+Elegir la carpeta donde están tus archivos sin nombrar / procesar.
+
+3.
+Elegir la carpeta de destino, donde estarán tus archivos con el nombre correspondiente.
+
+4.
+Elegir el año de la factura a procesar!
+Muy importante, ya que así podré colocar la fecha correcta de la factura.
+
+5.
+Dar clic a "Comenzar"
+
+6.
+Una vez haya terminado, puedes apretar en "Destino", así abrir la carpeta con tus archivos.
+
+¿Tienes más dudas?
+
+Llámame.
+
+- Tiziano Granzotto -
+
+

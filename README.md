@@ -4,9 +4,11 @@
 ¿Como funciona?
 Renombra todas las imágenes según su fecha de facturación, tipo y número de comprobante
 con el siguiente formato:
+
 "03-12-2024 FA A00002-00019043.jpeg"
 
 ¿Qué debo hacer?
+
 1.
 Escanear los documentos deseados.
 
